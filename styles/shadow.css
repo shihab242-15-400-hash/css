@@ -1,0 +1,16 @@
+.blog{
+    background-color:rgb(38, 139, 105) ;
+    width:400px;
+    margin:50px;
+    box-shadow: 10px -20px 50px;
+    text-align: center;
+    bl
+}
+#header{
+    background-color: rgb(41, 41, 171);
+    background-image:url('diu3.png');
+    background-repeat: no repeat;
+    background-size:cover;
+    height: 120px;
+
+}
